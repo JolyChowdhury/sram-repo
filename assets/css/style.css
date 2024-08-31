@@ -912,12 +912,12 @@ nav input {
 .jessica-biogi {
     color: var(--12, #0F141C);
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     line-height: normal;
     border-radius: 8px;
     background: var(--13, linear-gradient(90deg, #FF7D61 0%, #FFDB59 100%));
-    padding: 9px 20px;
+    padding: 9px 18px;
 }
 .arrow-main {
     position: absolute;
