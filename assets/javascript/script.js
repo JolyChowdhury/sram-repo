@@ -180,8 +180,8 @@ $(document).ready(function () {
     arrows: true,
     dots: false,
     speed: 1000,
-    prevArrow: '<button type="button" class="slick-prev"><img src="assets/images/slider-right-arrow.svg" alt="slider-right-arrow"></button>',
-    nextArrow: '<button type="button" class="slick-next"><img src="assets/images/slider-left-arrow.svg" alt="slider-left-arrow"></button>',
+    prevArrow: '<button type="button" class="slick-prev"><img src="assets/images/right-arrow.svg" alt="slider-right-arrow"></button>',
+    nextArrow: '<button type="button" class="slick-next"><img src="assets/images/left-arrow.svg" alt="slider-left-arrow"></button>',
     responsive: [
       {
         breakpoint: 991,
