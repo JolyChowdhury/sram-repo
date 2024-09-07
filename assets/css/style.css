@@ -2110,7 +2110,7 @@ button.tab-button span {
 .client-bounce-img {
     border-radius: 50%;
     z-index: 10;
-    max-width: 100%;
+    width: 80px;
 }
 .client-bounce-img1 {
     position: absolute;
@@ -2282,7 +2282,7 @@ footer {
 }
 .JessicaBiogi {
     color: var(--1, #FFF);
-    font-size: 96px;
+    font-size: 76px;
     font-weight: 700;
     line-height: normal;
 }
@@ -2296,6 +2296,7 @@ footer {
     align-items: center;
     gap: 40px;
     padding-top: 60px;
+    padding-bottom: 60px;
 }
 .about-contact-btn {
     padding: 0;
@@ -2555,7 +2556,7 @@ footer {
     visibility: hidden;
     transition: 0.5s;
     overflow: hidden;
-    max-width: 0;
+    width: 100px;
     transform-origin: center;
 }
 .has_fade_anim {
