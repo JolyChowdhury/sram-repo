@@ -3113,6 +3113,9 @@ header .close,
 }
 .recent-post-img {
     border-radius: 10px;
+    width: 100px;
+    height: auto;
+    object-fit: cover;
 }
 .implements {
     color: var(--1, #FFF);
