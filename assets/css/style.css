@@ -2572,7 +2572,7 @@ footer {
 /*-----------------------[ 21.Single Services Page CSS ]------------------------*/
 .ui-ux {
     text-align: center;
-    font-size: 96px;
+    font-size: 76px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -2631,9 +2631,9 @@ footer {
 }
 .continue-reading a {
     color: var(--14, #FFF);
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 60px;
     letter-spacing: 2px;
     border-bottom: 1px solid #FFF;
 }
