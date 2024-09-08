@@ -1023,17 +1023,17 @@
         position: absolute;
         bottom: 25px;
         right: 0;
-        left: 28%;
+        left: 60%;
     }
     .circle-text {
         position: absolute;
         bottom: 62px;
-        right: 198px;
+        right: 28px;
     }
     .digit {
         position: absolute;
         bottom: 120px;
-        right: 224px;
+        right: 55px;
     }
     .new-img-box-main {
         padding-top: 10px;
@@ -1531,14 +1531,12 @@
     .digit {
         position: absolute;
         bottom: 120px;
-        right: 0;
-        left: 0%;
+        right: 60px;
     }
     .circle-text {
         position: absolute;
         bottom: 62px;
-        right: 0;
-        left: 36%;
+        right: 34px;
     }
     .hwlo {
         display: flex;
@@ -1733,19 +1731,18 @@
 
 @media (max-width: 500px) {
     .years-img {
-        max-width: 220px;
+        max-width: 170px;
     }
     .digit {
         position: absolute;
-        bottom: 100px;
-        font-size: 100px;
+        bottom: 70px;
+        font-size: 70px;
     }
     .circle-text {
         position: absolute;
-        bottom: 57px;
-        right: 0;
-        left: 36%;
-        font-size: 13px;
+        bottom: 44px;
+        right: 38px;
+        font-size: 10px;
     }
     .tab-bar {
         gap: 0px;
@@ -2010,16 +2007,10 @@
 }
 
 @media (max-width: 425px) {
-    .years-img {
-        position: absolute;
-        right: 0;
-        left: 25%;
+    .circle-text {
+        right: 28px;
     }
-    .digit {
-        position: absolute;
-        right: 0;
-        left: 2%;
-    }
+
     .skill-type-main {
         grid-template-columns: repeat(1, 1fr);
         gap: 15px;
@@ -2064,13 +2055,20 @@
     .container2 h1 {
         font-size: 40px;
     }
-    .years-img {
+    /* .years-img {
         position: absolute;
         right: 0;
         left: 20%;
     }
     .circle-text {
         left: 32%;
+    } */
+
+    .digit {
+        right: 45px;
+    }
+    .circle-text {
+        right: 12px;
     }
     .video-container img.play-button {
         top: 40%;
