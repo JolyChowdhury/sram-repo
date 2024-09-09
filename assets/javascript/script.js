@@ -439,3 +439,4 @@ $(document).ready(function () {
     nextArrow: '<button type="button" class="services-gallery-main-next"><img src="assets/images/slider-left-arrow.svg" alt="slider-left-arrow"></button>',
   });
 });
+

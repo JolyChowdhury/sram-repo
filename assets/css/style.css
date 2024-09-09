@@ -2835,6 +2835,7 @@ footer {
 .overview-imgs-main {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 16px;
     padding-top: 30px;
 }
